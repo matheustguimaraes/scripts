@@ -11,6 +11,6 @@ rm master.zip
 mv Zeegaree-master Zeegaree
 
 echo "----------------------------------------------------"
-echo "For execute the program, just enter 'cd Zeegaree/'\n"
-echo "And 'python zeeragee.py'\n"
+echo "For execute the program, just enter 'cd Zeegaree/'"
+echo "And 'python zeeragee.py'"
 echo "----------------------------------------------------"
